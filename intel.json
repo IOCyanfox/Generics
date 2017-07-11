@@ -1,6 +1,6 @@
 {
-    "id": 1,
-    "name": "Internet",
+    "build": 2,
+    "allowLaunch": true,
     "price": 12.50,
     "tags": ["home", "green"]
 }
