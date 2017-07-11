@@ -1,6 +1,6 @@
 {
     "build": 2,
-    "allowLaunch": false,
+    "allowLaunch": "false",
     "price": 12.50,
     "tags": ["home", "green"]
 }
