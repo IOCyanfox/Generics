@@ -1,6 +1,4 @@
 {
     "build": 2,
-    "allowLaunch": true,
-    "soos": 12.50,
-    "tags": ["home", "green"]
+    "allowLaunch": true
 }
